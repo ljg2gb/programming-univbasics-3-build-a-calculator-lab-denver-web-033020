@@ -8,28 +8,28 @@ def subtraction(num1, num2)
   puts num1 - num2
 end
 
-subtraction (1, 2)
+subtraction
 
 def division(num1, num2)
   puts num1 / num2
 end
 
-division (1, 2)
+division
 
 def multiplication(num1, num2)
   puts num1 * num2
 end
 
-multiplication (1, 2)
+multiplication
 
 def modulo(num1, num2)
   puts num1 % num2
 end
 
-modulo (1, 3)
+modulo
 
 def square_root(num)
   puts Math.sqrt(num)
 end
 
-square_root (81)
+square_root
