@@ -26,7 +26,7 @@ def modulo(num1, num2)
   puts num1 % num2
 end
 
-modulo (1, 3)
+modulo(1, 3)
 
 def square_root(num)
   puts Math.sqrt(num)
